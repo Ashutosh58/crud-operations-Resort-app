@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "name": "Ashu",
+      "email": "ashu@gmail.com",
+      "password": "ashu@123",
+      "id": 1
+    },
+    {
+      "name": "Ashutosh",
+      "email": "ashu@gmail.com",
+      "password": "ashu@123",
+      "id": 2
+    },
+    {
+      "email": "aa@gmail.com",
+      "name": "aaa",
+      "password": "aaa",
+      "id": 3
+    },
+    {
+      "email": "pro@gmail.com",
+      "name": "Pramod",
+      "password": "pro@123",
+      "id": 4
+    },
+    {
+      "email": "asKumar@gmail.com",
+      "name": "Ashutosh Kumar",
+      "password": "Askumar",
+      "id": 5
+    },
+    {
+      "email": "pavan@gmail.com",
+      "name": "Pawan",
+      "password": "pavan@123",
+      "id": 6
+    },
+    {
+      "email": "john@gmail.com",
+      "name": "John",
+      "password": "john@123",
+      "id": 7
+    }
+  ],
+  "resturant": [
+    {
+      "name": "Darjeeling Lounge",
+      "contact": "033 2345 4545",
+      "address": " JBS Haldane Ave, Tangra, Kolkata",
+      "id": 2
+    },
+    {
+      "name": "Namaste",
+      "contact": "7795680954",
+      "address": "near BDA Complex, III Sector, HSR Layout, Bengaluru",
+      "id": 8
+    },
+    {
+      "name": "Midnight Cafeteria",
+      "contact": "77608 52389",
+      "address": "Banashankari, Bengaluru",
+      "id": 9
+    },
+    {
+      "name": "Barbeque Nation",
+      "contact": "80 6902 8723",
+      "address": "Park St, Kolkata",
+      "id": 10
+    },
+    {
+      "name": "Caramel Multicuisine Restaurant",
+      "contact": "00000000",
+      "address": "Forest Colony, Dhanbad, Jharkhand",
+      "id": 11
+    },
+    {
+      "name": "Seventh Heaven",
+      "contact": "82077 77900",
+      "address": "Hazaribag Rd, Ranchi, Jharkhand",
+      "id": 12
+    },
+    {
+      "name": "Dilli 32",
+      "contact": "011 7172 1234",
+      "address": "Maharaja Surajmal Road, Delhi",
+      "id": 13
+    },
+    {
+      "name": "Shang Palace",
+      "contact": "011 4119 1040",
+      "address": "Connaught Place, New Delhi",
+      "id": 14
+    },
+    {
+      "name": "21 Gun Salute",
+      "contact": "099711 33557",
+      "address": "Sector 29, Gurugram, Haryana ",
+      "id": 15
+    },
+    {
+      "name": "Seasonal Tastes",
+      "contact": "072900 13905",
+      "address": "NCR, Gurugram, Haryana",
+      "id": 16
+    }
+  ]
+}
